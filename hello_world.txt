@@ -1,0 +1,2 @@
+Hello world.
+My first time properly learning git through the odin project.
